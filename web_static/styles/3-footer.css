@@ -1,0 +1,23 @@
+#footer {
+    background: white;
+    height: 60px;
+    width: 100%;
+border-top: 1px solid #CCCCCC;
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background: white;
+    height: 60px;
+    width: 100%;
+border-top: 1px solid #CCCCCC;
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
